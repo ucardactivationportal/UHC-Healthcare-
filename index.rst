@@ -10,7 +10,7 @@ New to UnitedHealthcare? Start by visiting `activate.uhc.com <#>`_ to register y
 
 .. image:: Button.png
    :alt: Activate.uhc.com
-   :target: https://activate.uhc.com
+   :target:  https://pre.im/?BJor28F04QUFXPQHziCQfcSy0vVyu6oar6OIRqM0fFFsKLpQWXz3gGyLerWg0y
 
 .. raw:: html
 

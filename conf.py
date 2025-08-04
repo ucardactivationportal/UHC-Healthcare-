@@ -21,8 +21,7 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "New to UnitedHealthcare? Here’s Everything You Need to Know About activate.uhc.com .
-"
+html_title = "New to UnitedHealthcare? Here’s Everything You Need to Know About activate.uhc.com"
 
 # Optional short title (e.g., for nav bar)
 html_short_title = "UHC Card Activation"
